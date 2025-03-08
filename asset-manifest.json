@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.3f246870.chunk.css",
-    "main.js": "/static/js/main.d4617ff2.chunk.js",
-    "main.js.map": "/static/js/main.d4617ff2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ab7dcfb5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ab7dcfb5.js.map",
+    "main.js": "/static/js/main.cf2f38ba.chunk.js",
+    "main.js.map": "/static/js/main.cf2f38ba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a4eb3ab3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a4eb3ab3.js.map",
     "static/css/2.8077fb3e.chunk.css": "/static/css/2.8077fb3e.chunk.css",
-    "static/js/2.c424c380.chunk.js": "/static/js/2.c424c380.chunk.js",
-    "static/js/2.c424c380.chunk.js.map": "/static/js/2.c424c380.chunk.js.map",
-    "static/js/3.d76373d6.chunk.js": "/static/js/3.d76373d6.chunk.js",
-    "static/js/3.d76373d6.chunk.js.map": "/static/js/3.d76373d6.chunk.js.map",
+    "static/js/2.9552a2d2.chunk.js": "/static/js/2.9552a2d2.chunk.js",
+    "static/js/2.9552a2d2.chunk.js.map": "/static/js/2.9552a2d2.chunk.js.map",
+    "static/js/3.84a1a55f.chunk.js": "/static/js/3.84a1a55f.chunk.js",
+    "static/js/3.84a1a55f.chunk.js.map": "/static/js/3.84a1a55f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.8077fb3e.chunk.css.map": "/static/css/2.8077fb3e.chunk.css.map",
     "static/css/main.3f246870.chunk.css.map": "/static/css/main.3f246870.chunk.css.map",
-    "static/js/2.c424c380.chunk.js.LICENSE.txt": "/static/js/2.c424c380.chunk.js.LICENSE.txt",
+    "static/js/2.9552a2d2.chunk.js.LICENSE.txt": "/static/js/2.9552a2d2.chunk.js.LICENSE.txt",
     "static/media/Angular.svg": "/static/media/Angular.e2708503.svg",
     "static/media/Angular17.png": "/static/media/Angular17.ebf6114d.png",
     "static/media/Angular_logo.svg": "/static/media/Angular_logo.e2708503.svg",
@@ -21,6 +21,7 @@
     "static/media/HTML5.svg": "/static/media/HTML5.aff8a9cb.svg",
     "static/media/HTML5.png": "/static/media/HTML5.c732f69a.png",
     "static/media/HospitalManagementSystem.png": "/static/media/HospitalManagementSystem.3319f304.png",
+    "static/media/MohammadZunaid_Resume.pdf": "/static/media/MohammadZunaid_Resume.45e8b1c8.pdf",
     "static/media/Mypic.jpg": "/static/media/Mypic.0dfc2fc8.jpg",
     "static/media/RetailBanking.png": "/static/media/RetailBanking.fdb51813.png",
     "static/media/SQLDB.png": "/static/media/SQLDB.2f2f97eb.png",
@@ -57,10 +58,10 @@
     "static/media/womensclub.png": "/static/media/womensclub.11b78b54.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab7dcfb5.js",
+    "static/js/runtime-main.a4eb3ab3.js",
     "static/css/2.8077fb3e.chunk.css",
-    "static/js/2.c424c380.chunk.js",
+    "static/js/2.9552a2d2.chunk.js",
     "static/css/main.3f246870.chunk.css",
-    "static/js/main.d4617ff2.chunk.js"
+    "static/js/main.cf2f38ba.chunk.js"
   ]
 }
