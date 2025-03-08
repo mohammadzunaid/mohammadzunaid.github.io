@@ -1,6 +1,7 @@
 import React from "react";
 import { Link as ScrollLink } from "react-scroll";
 import profilePic from "../img/Mypic.jpg";
+import resume from "../img/MohammadZunaid_Resume.pdf";
 
 function About() {
   return (
@@ -26,9 +27,10 @@ function About() {
               Also a quick learner with good technical &amp; communication skills and capable of handling multiple tasks simultaneously.
               <br />I enjoy coding and would like to work in a environment where I can prove and improve my skills.
               <div className="mt-5 text-white">
-                <ScrollLink to="SainathOmdas_Resume.pdf" type="button" className="btn btn-sm btn-outline-white disabled " title="Download Resume" target="_blank">
+                {/* <ScrollLink to="MohammadZunaid_Resume.pdf" type="button" className="btn btn-sm btn-outline-white disabled " title="Download Resume" target="_blank">
                   Resume&nbsp;&nbsp; <i className="fas fa-file-download"></i>
-                </ScrollLink>
+                </ScrollLink> */}
+                <a className="btn btn-outline-white btn-sm" href={resume} download="MohammadZunaid_Resume.pdf">Resume&nbsp;&nbsp; <i className="fas fa-file-download"></i></a>
                 <ScrollLink to="contact" spy smooth offset={-60} duration={250} className="ml-lg-5 btn btn-sm btn-outline-white">
                   Hire Me
                 </ScrollLink>
