@@ -31,16 +31,16 @@ function WorkExperience() {
                 <div className="text-white text-justify container">
                   <ul>
                     <li>
+                      Designed and developed a production-grade multi-agent conversational AI platform using Microsoft Autogen, enabling specialized AI Agents to collaboratively execute enterprise workflows.
+                    </li>
+                    <li>
+                      Implemented a multiple workflow registration framework enabling seamless onboarding of new workflows.
+                    </li>
+                    <li>
+                      Implemented chat framework using react enabling users to interact and trigger different AI workflows.
+                    </li>
+                    <li>
                       Designed and optimized database entities and relationships in PostgreSQL.
-                    </li>
-                    <li>
-                      Developed dynamic, responsive web pages and network graphs using D3.js and AntV.
-                    </li>
-                    <li>
-                      Upgraded the Angular application from version 10 to 12.
-                    </li>
-                    <li>
-                      Configured RabbitMQ for seamless communication between services.
                     </li>
                     <li>
                       Integrated the application with external assets using webhooks and exposed REST APIs.
@@ -48,7 +48,6 @@ function WorkExperience() {
                     <li>
                        Implemented containerization of services using Docker.
                     </li>
-                    
                   </ul>
                 </div>
               </div>

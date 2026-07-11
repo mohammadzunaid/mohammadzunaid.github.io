@@ -1,7 +1,7 @@
 import React from "react";
 import { Link as ScrollLink } from "react-scroll";
 import profilePic from "../img/Mypic.jpg";
-import resume from "../img/MohammadZunaid_Resume.pdf";
+import resume from "../img/Mohammad_Zunaid_AI_Engineer.docx";
 
 function About() {
   return (
@@ -23,14 +23,15 @@ function About() {
               I have been working for Tata Consultancy Services as Systems Engineer since I started my career in 2020.
                I graduated in the stream of Computer Science and Engineering from Anurag Group of
               Institutions in the year of 2020. */}
-              A passionate full stack developer with strong understanding of .NET and Angular.
-              Also a quick learner with good technical &amp; communication skills and capable of handling multiple tasks simultaneously.
-              <br />I enjoy coding and would like to work in a environment where I can prove and improve my skills.
+              Senior Software Engineer with 8.5+ years of experience in designing enterprise software and AI-powered applications,
+              including 2+ years specialising in Agentic AI and Multi-Agents systems using python. Experienced in building production-grade AI solutions leveraging Microsoft Autogen, Langchain, FastAPI, OpenAI GPT models, Anthropic Claude Models, Angular and React.
+              <br />Proven experience in designing autonomous agent workflows, tools-enabled AI agents, conversational AI platforms, workflow orchestration,
+              distributed microservices and enterprise-scale software architectures. Strong background in traditional software engineering and modern Agentic AI platforms.
               <div className="mt-5 text-white">
                 {/* <ScrollLink to="MohammadZunaid_Resume.pdf" type="button" className="btn btn-sm btn-outline-white disabled " title="Download Resume" target="_blank">
                   Resume&nbsp;&nbsp; <i className="fas fa-file-download"></i>
                 </ScrollLink> */}
-                <a className="btn btn-outline-white btn-sm" href={resume} download="MohammadZunaid_Resume.pdf">Resume&nbsp;&nbsp; <i className="fas fa-file-download"></i></a>
+                <a className="btn btn-outline-white btn-sm" href={resume} download="Mohammad_Zunaid_AI_Engineer.docx">Resume&nbsp;&nbsp; <i className="fas fa-file-download"></i></a>
                 <ScrollLink to="contact" spy smooth offset={-60} duration={250} className="ml-lg-5 btn btn-sm btn-outline-white">
                   Hire Me
                 </ScrollLink>

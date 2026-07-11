@@ -4,12 +4,11 @@ import csharp from "../img/csharp.svg";
 import angular from "../img/Angular17.png";
 import sql from "../img/SQLDB.png";
 import docker from "../img/docker.png";
-import typescript from "../img/typescript.png";
-import html from "../img/html-5.png";
-import css from "../img/css-3.png";
-import js from "../img/java-script.png";
-import github from "../img/github.png";
+import react from "../img/react.webp";
 import git from "../img/git.png";
+import python from "../img/python.png";
+import langchain from "../img/langchain";
+import ai from "../img/ai.png";
 
 function Skills() {
   return (
@@ -21,25 +20,31 @@ function Skills() {
 
         <div className="container pt-5 mt-lg-5 justify-content-center row">
           <img
-            src={csharp}
+            src={python}
             className="img-responsive col-6 col-md-2 py-5"
             data-aos="fade-up"
-            delay=""
+            delay="500"
           />
           <img
-            src={dotnet}
+            src={ai}
             className="img-responsive col-6 col-md-2 py-5"
             data-aos="fade-up"
-            delay=""
+            delay="500"
+          />
+          <img
+            src={langchain}
+            className="img-responsive col-6 col-md-2 py-5"
+            data-aos="fade-up"
+            delay="500"
           />
           <img
             src={angular}
             className="img-responsive col-6 col-md-2 py-5"
             data-aos="fade-up"
-            delay=""
+            delay="500"
           />
           <img
-            src={sql}
+            src={react}
             className="img-responsive col-6 col-md-2 py-5"
             data-aos="fade-up"
             delay="500"
@@ -51,25 +56,19 @@ function Skills() {
             delay="500"
           />
           <img
-            src={typescript}
-            className="img-responsive col-6 col-md-2 py-5"
-            data-aos="fade-up"
-            delay="0"
-          />
-          <img
-            src={html}
-            className="img-responsive col-6 col-md-2 py-5"
-            data-aos="fade-up"
-            delay="0"
-          />
-          <img
-            src={css}
+            src={csharp}
             className="img-responsive col-6 col-md-2 py-5"
             data-aos="fade-up"
             delay="500"
           />
           <img
-            src={js}
+            src={dotnet}
+            className="img-responsive col-6 col-md-2 py-5"
+            data-aos="fade-up"
+            delay="500"
+          />       
+          <img
+            src={sql}
             className="img-responsive col-6 col-md-2 py-5"
             data-aos="fade-up"
             delay="500"
@@ -78,13 +77,7 @@ function Skills() {
             src={git}
             className="img-responsive col-6 col-md-2 py-5"
             data-aos="fade-up"
-            delay="0"
-          />
-          <img
-            src={github}
-            className="img-responsive col-6 col-md-2 py-5"
-            data-aos="fade-up"
-            delay="0"
+            delay="500"
           />
         </div>
       </div>

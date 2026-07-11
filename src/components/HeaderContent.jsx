@@ -7,7 +7,7 @@ function HeaderContent() {
   useEffect(() => {
     init(textRef.current, {
         showCursor: true,
-        strings: ["Full Stack .NET Developer", ".NET Developer"],
+        strings: ["Senior Python Agentic AI Engineer", ".NET Full Stack Developer"],
         backDelay: 1500,
         loop: true
     } )
